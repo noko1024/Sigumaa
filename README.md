@@ -2,7 +2,7 @@
 
 Es freut mich, Sie kennen zu lernen.
 
-https://sigumaa.netlify.app/
+https://sigumaa.netlify.app/　<br>
 ↑スマホ未対応
 
 ## Self-introduction
