@@ -2,6 +2,9 @@
 
 Es freut mich, Sie kennen zu lernen.
 
+https://sigumaa.netlify.app/
+↑スマホ未対応
+
 ## Self-introduction
 
 ![age](https://img.shields.io/badge/age-15-green?style=for-the-badge)
