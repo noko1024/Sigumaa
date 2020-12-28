@@ -2,8 +2,10 @@
 
 Es freut mich, Sie kennen zu lernen.
 
-https://sigumaa.netlify.app/　<br>
-↑スマホ未対応
+portfolio　→　https://sigumaa.netlify.app/　<br>
+↑スマホ未対応<br>
+
+blog　→　https://siguma-blog.netlify.app/
 
 ## Self-introduction
 
