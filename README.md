@@ -1,6 +1,6 @@
 # Sigumaa
 
-# あけましておめでとうございます！！！！！！！
+# 今年もよろしくお願いします
 
 ![age](https://img.shields.io/badge/age-15-green?style=for-the-badge)
 [![](https://img.shields.io/badge/kosen-20s-skyblue?style=for-the-badge)](https://www.kosen-k.go.jp/)
