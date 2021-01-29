@@ -1,6 +1,6 @@
 # Sigumaa
 
-# 試験期間
+# 実質試験終わり！
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sigumaa&count_private=true&show_icons=true&theme=gotham" />
