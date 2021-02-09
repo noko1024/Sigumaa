@@ -1,6 +1,6 @@
 # Sigumaa
 
-# 実質試験終わり！
+試験期間は草が生えない
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sigumaa&count_private=true&show_icons=true&theme=gotham" />
